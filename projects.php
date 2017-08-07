@@ -24,9 +24,9 @@
   <div class="col-md-3 col-md-offset-0">
     <div class="thumbnail">
       <a href="#">
-        <img src="images/technics-q-c-640-480-1.jpg" alt="placeholder" style="width:100%">
+        <img src="images/diveden.png" alt="placeholder" style="width:100%">
         <div class="caption">
-          <p>Coming Soon</p>
+          <p>The Dive Den</p>
         </div>
       </a>
     </div>
@@ -34,9 +34,9 @@
   <div class="col-md-3 col-md-offset-0">
     <div class="thumbnail">
       <a href="#">
-        <img src="images/technics-q-c-640-480-1.jpg" alt="placeholder" style="width:100%">
+        <img src="images/nyt.png" alt="placeholder" style="width:100%">
         <div class="caption">
-          <p>Coming Soon</p>
+          <p>NYT Scrape</p>
         </div>
       </a>
     </div>
@@ -48,19 +48,9 @@
   <div class="col-md-3 col-md-offset-0">
     <div class="thumbnail">
       <a href="#">
-        <img src="images/technics-q-c-640-480-1.jpg" alt="placeholder" style="width:100%">
+        <img src="images/pillars.png" alt="placeholder" style="width:100%">
         <div class="caption">
-          <p>Coming Soon</p>
-        </div>
-      </a>
-    </div>
-  </div>
-  <div class="col-md-3 col-md-offset-0">
-    <div class="thumbnail">
-      <a href="#">
-        <img src="images/technics-q-c-640-480-1.jpg" alt="placeholder" style="width:100%">
-        <div class="caption">
-          <p>Coming Soon</p>
+          <p>Pillars</p>
         </div>
       </a>
     </div>
